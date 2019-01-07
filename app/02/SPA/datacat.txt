@@ -234,87 +234,183 @@ indiferente con el resto de los miembros.",
     origen:"América | Estados Unidos"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato Maine coon",
+    bio: "El gato Maine coon destaca por ser un felino grande, robusto y de carácter
+dócil. No obstante, debido a sus peculiaridades en cuanto a características,
+personalidad o cuidados, será fundamental informarnos previamente si nuestro
+deseo es adoptar a uno. Conocido como el "gigante gentil" gatuno, este felino se
+encuentra entre las razas de gatos gigantes más populares.",
+    img: "assets/img/maine-coon.jpg",
+    origen:"América | Estados Unidos"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato británico de pelo corto",
+    bio: "El british shorthair, también conocido como gato británico de pelo corto, es
+considerada una de las razas más antiguas y populares de Gran Bretaña. ¿Estás
+pensando en adoptar a uno? ¿Quieres saber más sobre esta raza? En esta ficha de
+raza de ExpertoAnimal te mostraremos todo lo que necesitas saber del british
+shorthair, incluyendo características, carácter o todos los colores que son
+permitidos según el estándar, como el clásico "blue", blanco o el ahumado.",
+    img: "assets/img/gato-britanico-de-pelo-corto.jpg",
+    origen:"Europa | Reino Unido"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Lykoi o gato lobo",
+    bio: "Si has oído hablar o has visto a un gato lykoi seguro que te ha sorprendido,
+pues su aspecto recuerda al de un lobo y, por ello, no deja indiferente a nadie.
+Es una de las razas más nuevas de felinos domésticos y, de hecho, todavía está
+en proceso de ser admitida totalmente como una raza, pues todavía hay pocos
+ejemplares en todo el mundo. Este felino está ganando popularidad rápidamente,
+sobre todo en América del norte que es el lugar en el que ha surgido y, por lo
+tanto, dónde es más conocido por el momento.",
+    img: "assets/img/lykoi-o-gato-lobo.jpg",
+    origen:"mérica | Estados Unidos"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato azul ruso",
+    bio: "El gato azul ruso es sin duda uno de los felinos más populares y hermosos. Si
+estás pensando en adoptar a un gato de esta raza será conveniente que te
+informes antes acerca de su carácter, del cuidado del pelo o de las
+características que posee. En ExpertoAnimal te explicaremos todo lo que
+necesitas saber sobre el gato azul ruso, incluyendo los tipos, fotografías e
+información de interés acerca de sus cuidados. Sigue leyendo y descubre más
+sobre esta raza felina:",
+    img: "assets/img/gato-azul-ruso.jpg",
+    origen:"Asia | Rusia"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato bombay",
+    bio: "El gato bombay es sin duda una de las razas de gatos más populares y hermosas
+que existen. Si estás pensando en adoptar un gato de esta raza no dudes en
+informarte apropiadamente acerca de todas sus características, el carácter que
+suele tener así como los cuidados básicos que requiere. También hablaremos de la
+alimentación y los problemas de salud frecuentes, algo que debes conocer antes
+de llevarlo a tu casa.",
+    img: "assets/img/gato-bombay.jpg",
+    origen:"América | Estados Unidos"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato Shpynx o esfinge",
+    bio: "El gato Sphynx o gato esfinge es un gato realmente único en el mundo. Fue el
+primero en ser aceptado como raza sin pelo o sin pelaje aparente y lo que es
+seguro, es que crean agrado y desagrado a la vez por parte de la sociedad
+humana. Muchos profesionales sugieren que proviene de la raza devon rex, con la
+que comparten características muy similares.
+
+Aparecieron de forma natural a lo largo de la historia ya que su falta de pelaje
+es causa de una mutación, un proceso común en la evolución de cualquier especie.
+Fue en Canadá, cuando en los años 60 decidieron fijar y mantener las
+características de los gatos que no parecían tener pelo.",
+    img: "assets/img/shpynx-o-esfinge.jpg",
+    origen:"América | Canadá"
   },
   {
-    nombre:" ",
-    bio: " ",
+    nombre:"Gato Europeo",
+    bio: "Gato común Europeo es conocido también como gato romano puesto que fue en esa
+época cuando se expandieron por toda Europa. Su nombre en latín es Felis Catus.
+Se cree que esta raza proviene del gato montés africano y del gato de la jungla
+aunque son orígenes son muy inciertos. Otras fuentes aseguran que proviene de
+Suecia. Eso sí, no fue hasta 1981 que la raza fue aceptada por la FIFE de forma
+oficial.
+
+Los gatos europeos suelen ser bicolores, con un manto atigrado de pelo corto
+aunque también pueden llevar genes de pelo largo, carey o jaspeado",
     img: "assets/img/",
-    origen:""
+    origen:"África | Asia | Europa"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato Mau egipcio",
+    bio: "Encontramos en el mau egipcio uno de los gatos más elegantes que existen. Su
+historia está unida a la dinastía de los faraones, un gran imperio que apreciaba
+la figura del gato como la de un ser casi divino. La palabra "mau" es egipcia, y
+significa gato, es decir, el gato egipcio. En la antigua civilización egipcia
+los gatos eran figuras veneradas y estaban protegidas como animales sagrados.
+Matar a uno de estos animales era castigado con la pena de muerte.
+
+Se dedicaron numerosos jeroglíficos a la raza creada que fué seleccionada por
+los mismos egipcios para dar forma a la belleza felina. Sus antepasados datan
+desde hace más de 4.000 años, podríamos estar hablando entonces de la raza de
+gatos más antigua. Fue la princesa Natalia Troubetzkoi quién, en los años 50,
+presentó a Roma el mau egipcio, un gato que tubo una maravillosa acogida por su
+belleza e historia. Actualmente podemos encontrar ejemplares asilvestrados
+viviendo en las cercanías del río Nilo.",
+    img: "assets/img/mau-egipcio.jpg",
+    origen:"África | Egipto"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato Australian Mist",
+    bio: "El australian mist o gato de la niebla es una raza desarrollada en Australia en
+1976. Desciende del cruze entre diversas razas de gato incluidos los birmanos,
+los abisinios y otros gatos de pelo corto nacionales de Australia. El Dr. Truda
+Straede, creador, quería lograr un gato con todas las características de sus
+predecesores, eso sí, con un carácter simpático, activo y de buen humor.",
+    img: "assets/img/australian-mist.jpg",
+    origen:"Oceania | Australia"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato Himalayo",
+    bio: "El gato Himalayo es un cruce entre el persa, de quien ha desarrollado sus
+características físicas y del siamés, de quien ha heredado el patrón
+característico. La combinación de estos dos predecesores nos ofrece un gato
+único y elegante.
+
+El origen aparece en Suecia, en los años 30, aunque el estándar oficial de la
+raza que conocemos hoy en día no se fijó hasta los años 60. Su nombre se debe al
+gran parecido con el conejo Himalayo.",
+    img: "assets/img/himalayo.jpg",
+    origen:"Europa | Reino Unido | Suecia"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato Habana",
+    bio: "El gato de la Habana procede de la Europa del siglo XIX, más concretamente de
+Inglaterra dónde empezó a criarse seleccionando a los siameses marrones. Más
+adelante, los siameses marrones se mezclaron con el Chocolate Point y es cuando
+la raza adquiere las características que siguen buscando los criadores hoy en
+día.
+
+Además hace falta añadir que su nombre, no proviene de Cuba como podríamos
+pensar sino que lleva ese nombre por su oscuro pelaje color tabaco.",
+    img: "assets/img/habana.jpg",
+    origen:"Europa | Reino Unido"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato Persa",
+    bio: "Reconocemos facilmente al gato Persa por su cara ancha y aplanada junto al
+abundante pelaje. Fueron introducidos en Italia desde la antigua Persia (Irán)
+sobre el 1620 aunque se desconoce el auténtico origen. El estándar del persa
+actual, tal y como lo conocemos se fijó en 1800 en Inglaterra y proviene del
+Angora Turco.",
+    img: "assets/img/persa.jpg",
+    origen:"África | Asia |Europa"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato Siamés",
+    bio: "El gato siamés proviene del antiguo reino de Siam, la actual Tailandia. Fue a
+partir del 1880 cuando se empezó a comercializar con él en los envíos a Reino
+unido y posteriormente a Estados Unidos. En los años 50 del pasado siglo XX fue
+cuando el gato siamés empezó a ganar protagonismo siendo elegido por muchos
+criadores y jueces como miembros de los concursos de belleza.
+
+Encontramos dos variedades de gato siamés:
+
+El gato siamés moderno o Siamés es una variedad del gato siamés que apareció en
+2001 en la cual se busca un estilo más fino, alargado y oriental. Los rasgos son
+marcados y pronunciados. Es el tipo más utilizado en los concursos de belleza.
+El gato siamés tradicional o Thai Es probablemente el más conocido. Su
+constitución es la típica de un gato común que muestra los colores típicos y
+originales del gato siamés tradicional. Ambas variedades se caraceterizan por su
+esquema de color pointed típico, la coloración oscura donde la temperatura
+corporal es menor (extremidades, cola, cara y orejas) que contrasta con los
+tonos de la resta del cuerpo del felino.",
+    img: "assets/img/siames.jpg",
+    origen:"Asia | Tailandia"
   },
   {
-    nombre:" ",
-    bio: " ",
-    img: "assets/img/",
-    origen:""
+    nombre:"Gato Ragdoll",
+    bio: "El Ragdoll nace el 1960 en California, EEUU aunque no se reconoció hasta diez
+años después. El cruce se hizo mediante una gata tipo angora y un macho sagrado
+de Birmania. Hoy en día es una de las razas más apreciadas en Norteamérica.",
+    img: "assets/img/ragdoll.jpg",
+    origen:"América | Estados Unidos"
   }
-]
+];

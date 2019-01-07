@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { GatosService} from "../../services/gatos.service";
+import { GatosService, Gatos} from "../../services/gatos.service";
 
 
 @Component({
@@ -9,9 +9,16 @@ import { GatosService} from "../../services/gatos.service";
 })
 export class GatosComponent implements OnInit {
 
-  constructor(private _gatosService:GatosService) { }
+  gatos:Gatos[] = [];
+  constructor(private _gatosService:GatosService) {
+
+  }
 
   ngOnInit() {
+
+    this.gatos = this._gatosService.getGatos();
+    console.log(this.gatos);
+
   }
 
 }
