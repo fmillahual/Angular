@@ -17,8 +17,12 @@ export class GatosComponent implements OnInit {
   ngOnInit() {
 
     this.gatos = this._gatosService.getGatos();
-    console.log(this.gatos);
+    //console.log(this.gatos);
 
+  }
+
+  verGato(idx:number){
+    console.log(idx);
   }
 
 }

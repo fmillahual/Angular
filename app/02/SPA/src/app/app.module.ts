@@ -10,9 +10,11 @@ import { NavbarComponent } from './components/shared/navbar/navbar.component';
 import { HomeComponent } from './components/home/home.component';
 import { AboutComponent } from './components/about/about.component';
 import { GatosComponent } from './components/gatos/gatos.component';
+import { GatoComponent } from './components/gato/gato.component';
 
 //servicios
 import { GatosService } from "./services/gatos.service";
+
 
 
 
@@ -22,7 +24,8 @@ import { GatosService } from "./services/gatos.service";
     NavbarComponent,
     HomeComponent,
     AboutComponent,
-    GatosComponent
+    GatosComponent,
+    GatoComponent
   ],
   imports: [
     BrowserModule,

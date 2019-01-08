@@ -169,7 +169,7 @@ export class GatosService {
     {
       nombre:"Gato Europeo",
       bio: "Gato común Europeo es conocido también como gato romano puesto que fue en esa época cuando se expandieron por toda Europa. Su nombre en latín es Felis Catus.Se cree que esta raza proviene del gato montés africano y del gato de la jungla aunque son orígenes son muy inciertos. Otras fuentes aseguran que proviene de Suecia. Eso sí, no fue hasta 1981 que la raza fue aceptada por la FIFE de forma oficial. Los gatos europeos suelen ser bicolores, con un manto atigrado de pelo corto aunque también pueden llevar genes de pelo largo, carey o jaspeado",
-      img: "assets/img/",
+      img: "assets/img/europeo.jpg",
       origen:"África | Asia | Europa"
     },
     {
@@ -221,6 +221,10 @@ export class GatosService {
 
 getGatos():Gatos[]{
   return this.gatos;
+}
+
+getGato(idx:number){
+  return this.gatos[idx];
 }
 
 }
