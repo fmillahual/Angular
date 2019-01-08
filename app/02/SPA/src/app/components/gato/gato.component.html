@@ -1,3 +1,22 @@
-<p>
-  gato works!
-</p>
+<h1>Origen: <small>  {{ gato.origen }}</small></h1>
+<hr>
+
+<div class="row animated fadeIn fast">
+  <div class="col-md-4">
+
+    <img [src]="gato.img"  class="gato img-fluid" [alt]="gato.nombre">
+    <br><br>
+    <a [routerLink]="['/gatos']" class="btn btn-outline-danger btn-block">Regresar</a>
+  </div>
+
+
+
+  <div class="col-md-8">
+    <h3>{{ gato.nombre }}</h3>
+    <hr>
+    <p class="bio-completa">
+      {{ gato.bio }}
+    </p>
+  </div>
+
+</div>

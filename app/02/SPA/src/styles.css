@@ -37,13 +37,30 @@ body{
 
 
 /** IMG **/
-div img {
+.gatos {
   width: 80px;
   height: 230px;
-  filter: grayscale(1);
+  filter: grayscale(1px);
+  filter:blur(5px);
 }
 
-div img:hover {
+
+.gatos:hover {
   filter: none;
-  transition: ease-out;
+  transition-duration: 1s
+}
+
+.gato{
+  width: 300px;
+  height: 100px;
+}
+
+.bio-gatos{
+  width: 300px;
+  height: 120px;
+}
+
+.bio-completa{
+  margin-top: 40px;
+  width: auto;
 }

@@ -3,11 +3,11 @@
 
 
 <div class="card-columns">
-  <div class="card animated fadeIn fast" *ngFor="let gato of gatos; let i = index">
-      <img [src]="gato.img" class="card-img-top" [alt]="gato.nombre">
+  <div class=" gato-blur card animated fadeIn fast" *ngFor="let gato of gatos; let i = index">
+      <img [src]="gato.img" class=" gatos card-img-top" [alt]="gato.nombre">
       <div class="card-block">
         <h5 class="card-title">{{ gato.nombre }}</h5>
-        <p class="card-text">{{ gato.bio }}</p>
+        <p class="bio-gatos card-text">{{ gato.bio.substring(0,160) }} <span>...</span></p>
         <p class="card-text"><small class="text-muted">{{ gato.origen }}</small></p>
         <!--
         <button (click) = "verGato(i)" class="btn btn-outline-primary btn-block">
