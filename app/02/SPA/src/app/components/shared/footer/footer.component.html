@@ -1,0 +1,12 @@
+<div class="footer">
+
+  <div class="social-networking" *ngFor="let icon of icon">
+    <a [href]="icon.url"><img class="icon-social text-center" [src]="icon.assets" [alt]="icon.nombre"></a>
+  </div>
+
+
+  <div class="copy">
+    <p>&copy; CAT APP. Todos los derechos reservados</p>
+  </div>
+
+</div>

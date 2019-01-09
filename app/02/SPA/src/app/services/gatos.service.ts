@@ -216,7 +216,7 @@ export class GatosService {
     }
   ];
   constructor() {
-    console.log("Servicio listo para usarse");
+    //console.log("Servicio listo para usarse");
    }
 
 getGatos():Gatos[]{
@@ -227,8 +227,24 @@ getGato(idx:number){
   return this.gatos[idx];
 }
 
-}
 
+
+buscarGato( termino:string):Gatos[] {
+  let gatoArr:Gatos[] = [];
+  termino = termino.toLowerCase();
+
+  for (let gatos of this.gatos )
+  {
+    let nombre = gatos.nombre.toLowerCase();
+    if(nombre .indexOf(termino) >= 0 )
+    {
+      gatoArr.push( gatos );
+    }
+  }
+
+  return gatoArr;
+}
+}
 
 export interface Gatos{
   nombre:string;

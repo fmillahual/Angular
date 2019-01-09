@@ -11,10 +11,13 @@ import { HomeComponent } from './components/home/home.component';
 import { AboutComponent } from './components/about/about.component';
 import { GatosComponent } from './components/gatos/gatos.component';
 import { GatoComponent } from './components/gato/gato.component';
+import { FooterComponent } from './components/shared/footer/footer.component';
+import { BuscadorComponent } from './components/buscador/buscador.component';
+
 
 //servicios
 import { GatosService } from "./services/gatos.service";
-
+import { IconServices } from './services/icon.services';
 
 
 
@@ -25,14 +28,17 @@ import { GatosService } from "./services/gatos.service";
     HomeComponent,
     AboutComponent,
     GatosComponent,
-    GatoComponent
+    GatoComponent,
+    FooterComponent,
+    BuscadorComponent
   ],
   imports: [
     BrowserModule,
     APP_ROUTING
   ],
   providers: [
-    GatosService
+    GatosService,
+    IconServices
   ],
   bootstrap: [AppComponent]
 })

@@ -1,5 +1,14 @@
-<h1>Razas <small>de Gatos</small></h1>
+<h1>Buscando <small>{{ termino }}</small></h1>
 <hr>
+
+<div class="row" *ngIf="gatos.length == 0">
+  <div class="col-md-1-12">
+    <div class="alert alert--info" role="alert">
+      No existe resultados con el término {{ termino }}
+    </div>
+  </div>
+
+</div>
 
 
 <div class="card-columns">

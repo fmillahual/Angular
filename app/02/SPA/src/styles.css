@@ -1,9 +1,15 @@
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
 .main-container{
   margin-top: 20px;
 }
 
 body{
-  padding-bottom: 50px;
+
 }
 
 
@@ -63,4 +69,42 @@ body{
 .bio-completa{
   margin-top: 40px;
   width: auto;
+}
+
+.footer{
+  position: absolute;
+  left: 0;
+  width: 100%;
+  text-align: center;
+  background-color: #e0e2e4;
+  bottom: 0%;
+  height: 100px;
+  border-bottom: 0;
+  padding-top: 30px;
+  margin-top: 30px;
+
+
+}
+
+.copy{
+  margin-top: 30px;
+  background-color: #50394c;
+  height: 50px;
+
+}
+
+.copy p {
+  padding-top: 10px;
+  color: #ffffff;
+}
+
+.social-networking {
+  display: inline-block;
+}
+.icon-social {
+
+  width: 40px;
+  height: 40px;
+  margin-left: 15px;
+
 }
