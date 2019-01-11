@@ -1,0 +1,5 @@
+tr td:nth-child(2) {
+    font-weight: bold;
+    
+    color:#04aec1;
+}
