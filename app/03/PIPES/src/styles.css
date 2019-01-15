@@ -3,3 +3,17 @@ tr td:nth-child(2) {
     
     color:#04aec1;
 }
+
+h1{
+    margin-left: 50px;
+    text-transform: uppercase;
+}
+
+td:not(:nth-child(2)):hover
+{
+    background-color: #804000;
+    color: #ffffff;
+    font-weight: bold;
+    transition: all .5s ease-out;
+
+}
