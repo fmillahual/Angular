@@ -7,11 +7,16 @@ import { SpotifyService  } from "../../services/spotify.service";
 })
 export class SearchComponent {
 
-  constructor(public _spotify: SpotifyService) { }
+  constructor(public _spotify: SpotifyService) { 
 
- getArtista(){
+    this._spotify.getArtist().subscribe( resp => {
+      console.log("informacion lista");
+      console.log( resp );
+    });
 
-  let url = 'https://api.spotify.com/v1/search?query=tania+bowra&type=artist&offset=0&limit=20';
- }
+  }
+
+  
+ 
 
 }
