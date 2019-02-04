@@ -7,11 +7,13 @@ import { SpotifyService  } from "../../services/spotify.service";
 })
 export class SearchComponent {
 
+  termino:string = '';
+  
   constructor(public _spotify: SpotifyService) { 
 
-    this._spotify.getArtist().subscribe( resp => {
+    this._spotify.getArtist().subscribe( artistas => {
       console.log("informacion lista");
-      console.log( resp );
+      console.log( artistas );  
     });
 
   }
