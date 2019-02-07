@@ -11,14 +11,18 @@ export class SearchComponent {
   
   constructor(public _spotify: SpotifyService) { 
 
-    this._spotify.getArtist().subscribe( artistas => {
-      console.log("informacion lista");
-      console.log( artistas );  
-    });
 
   }
 
-  
- 
+  buscarArtista()
+  {
 
+    if( this.termino.length == 0) {
+      return;
+    }
+  this._spotify.getArtist(this.termino).subscribe( artistas => {
+  console.log("informacion lista");
+  console.log( artistas );  
+}); 
+  }
 }
